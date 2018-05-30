@@ -1,6 +1,6 @@
 # Les bonnes pratiques du développement Android
 
-Leçons apprises par les developpeurs Android de [Futurice](http://www.futurice.com). Ne réinventez plus la roue en suivant ces bonnes pratiques. Si vous êtes intéressé par le développement iOS ou Windows Phone, n'hésitez pas à regarder nos documents [**Bonnes pratiques iOS**](https://github.com/futurice/ios-good-practices) et [**Bonnes pratiques Windows Phone**](https://github.com/futurice/windows-app-development-best-practices).
+Leçons apprises des developpeurs Android de [Futurice](http://www.futurice.com). Ne réinventez plus la roue en suivant ces bonnes pratiques. Si vous êtes intéressé par le développement iOS ou Windows Phone, n'hésitez pas à regarder nos documents [**Bonnes pratiques iOS**](https://github.com/futurice/ios-good-practices) et [**Bonnes pratiques Windows Phone**](https://github.com/futurice/windows-app-development-best-practices).
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--best--practices-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1091)
 
